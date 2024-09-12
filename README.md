@@ -45,16 +45,5 @@ Agradecemos a todos que contribuíram para este projeto!
 
 **#programadores #desenvolvedores #esportes #atletas #html #css #javascript**
 
----
 
-## Dicas:
 
-- Adicione imagens para deixar o Readme mais visualmente atraente.
-- Use emojis para tornar o texto mais divertido e fácil de ler.
-- Seja claro e conciso nas suas explicações.
-- Incentive a colaboração e a comunidade.
-
-Com este `Readme.md` bem feito, você atrairá mais pessoas para o seu projeto e facilitará a vida de quem quiser contribuir.
-```
-
-Esse formato facilita a leitura no GitHub ou em qualquer outro lugar que suporte Markdown!
